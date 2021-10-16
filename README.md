@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Adogtame](https://adogtame.vercel.app) 
 
-- - 📫 Contact me at **ffrancoaparicio@gmail.com**
+- 📫 Contact me at **ffrancoaparicio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
