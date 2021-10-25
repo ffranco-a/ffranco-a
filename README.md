@@ -1,29 +1,20 @@
-<h1 align="center">Hi there 👋, I'm Franco Aparicio</h1>
-<h3 align="center">a front-end developer eager to create connections</h3>
+<h1 align="center">Hi 👋 I'm Franco Aparicio</h1>
+<h3 align="center">a front-end developer eager to create connections.</h3>
+<h3 align="center">Welcome to my Github profile!</h3>
 
 - 🔭 I’m currently working on [Adogtame](https://adogtame.vercel.app) 
 
-- 📫 Contact me at **ffrancoaparicio@gmail.com**
+- 📫 Contact me at **ffrancoaparicio@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/franco aparicio" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="franco aparicio"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/ffranco.a" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ffranco.a"
-      height="30"
-      width="40"
-  /></a>
-</p>
+- 🤝 Find me in LinkedIn as [Franco Aparicio](https://www.linkedin.com/in/franco-aparicio) <a href='https://www.linkedin.com/in/franco-aparicio'><img
+  align="center"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  alt="franco aparicio"
+  height="21"
+  width="28"
+/></a> 
+
+##
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -84,16 +75,18 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
 </p>
-<br />
+
+##
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ffranco-a&show_icons=true&locale=en&layout=compact"
     alt="ffranco-a"
   />
 </p>
-<br />
+
+##
 
 <p>
   &nbsp;<img
@@ -102,6 +95,7 @@
     alt="ffranco-a"
   />
 </p>
-<br />
+
+##
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffranco-a&" alt="ffranco-a" /></p>
