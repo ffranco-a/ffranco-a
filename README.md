@@ -78,9 +78,12 @@
 
 <hr />
 
-## Projects:
+# Projects:
 
-### Adogtame
+### *Adogtame*
+> Group **Fullstack** Project *(my role: front-end)*
+#### deploy: [Vercel](https://adogtame.vercel.app) <br />
+
 
 ##### *english*
 *Adogtame* is an app that connects **pets in adoption/lost/found** with **people who are looking to adopt, or that has lost their pet.** Also, it allows **animal shelters** to publish their ubication and office hours, list their pets available for adoption, organize events and even share a link for donations and thus receive community aid. The idea is to unify all these needs in one place, since currently this kind of information is spread out across multiple social networks and not regularized, it is in this context that *Adogtame* can be a first-place-to-go to, and because of that easing the process of finding a pet a loving home. Furthermore, posts in *Adogtame* are geolocalized, thus looking for a pet is specially agile, particularly in the case of lost pets whose situation is the gravest and need finding ASAP.
@@ -89,21 +92,30 @@
 El objetivo de *Adogtame* es conectar **animales en adopción/perdidos/encontrados** con **personas que buscan adoptar o que extraviaron a su mascota.** Además la aplicación es una herramienta para que **refugios de animales** puedan publicar su ubicación y horarios de visita, listar sus mascotas disponibles, organizar eventos y hasta compartir un enlace en el cual puedan recibir donaciones y apoyo comunitario. La idea surge a partir de la falta de un sitio que nuclee estas necesidades, actualmente la información está esparcida en diferentes redes sociales, entonces una aplicación como *Adogtame* facilita el proceso de darle un hogar a una mascota que lo necesita. Las publicaciones en *Adogtame* funcionan a base de geolocalización, por lo que la búsqueda de mascotas se ve optimizada, especialmente en el caso de mascotas extraviadas.
 
 ##
+##
 
-### getRecipes() >
+### *getRecipes() >*
+> Solo **Fullstack** Project
+#### repo: [github](https://github.com/ffranco-a/getRecipes)
+
 
 WIP (soon)
 
 ##
+##
 
-### WeatherApp
+### *WeatherApp*
+> **React SPA** project 
+#### deploy: [Vercel](https://weather-app-ffranco-a.vercel.app) <br />
+repo: [github](https://github.com/ffranco-a/WeatherApp)
+
 
 ##### *english*
 *Would you like to know how's the weather like in your city? or any city in the world, actually!* Just type in their names in the search bar above, and you'll get a card for each one of them showing the main information. *Would you like to see more details, along with the nwxr week forecast?* Click in any of your city-cards to expand the weather information of that city. — WeatherApp is a React single-page app created by Franco Aparicio, student of <a href='https://www.soyhenry.com'>soyHenry</a>'s bootcamp. The app offers real-time weather information (withdrawn from <a href='https://openweathermap.org/api'>openweathermap's API</a>) of any city in the world.
 
 ##### *español*
 *¿Quieres saber qué temperatura hace en tu ciudad y en cualquier parte del mundo?* Escribe los nombres de las ciudades que quieras en la barra de búsqueda y se generará una tarjeta por cada una de ellas. *¿Quieres ver más detalles, y el pronóstico extendido de la semana?* Clickea en cualquiera de las tarjetas para ampliar la información del clima de esa ciudad. — WeatherApp es una aplicación de página única (React SPA) creada por Franco Aparicio, alumne del bootcamp <a href='https://www.soyhenry.com'>soyHenry</a>. La aplicación brinda información del clima en tiempo real (extraída de <a href='https://openweathermap.org/api'>API de openweathermap</a>) de cualquier ciudad del mundo.
-
+##
 <hr />
 
 ## Some Github stats:
