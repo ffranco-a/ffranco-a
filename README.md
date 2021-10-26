@@ -16,7 +16,7 @@
 
 <hr />
 
-<h3 align="left">Languages and Tools I have experience in (and still are perfecting):</h3>
+<h3 align="left">Languages and Tools I have experience in (and still are perfecting myself in):</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
@@ -78,9 +78,9 @@
 
 <hr />
 
-# PROJECTS:
+## Projects:
 
-## ADOGTAME
+### Adogtame
 
 ##### *english*
 *Adogtame* is an app that connects **pets in adoption/lost/found** with **people who are looking to adopt, or that has lost their pet.** Also, it allows **animal shelters** to publish their ubication and service hours, list their pets available for adoption, organize events and even share a link for donations and thus receive community aid. The idea is to unify all these needs in one place, since currently this kind of information is spread out across multiple social networks and not regularized, it is in this context that *Adogtame* can be a first-place-to-go to, and because of that easing the process of finding a pet a loving home. Furthermore, posts in *Adogtame* are geolocalized, thus looking for a pet is specially agile, particularly in the case of lost pets whose situation is the gravest and need finding ASAP.
@@ -90,13 +90,13 @@ El objetivo de *Adogtame* es conectar **animales en adopción/perdidos/encontrad
 
 ##
 
-## getRecipes() >
+### getRecipes() >
 
 WIP (soon)
 
 ##
 
-## WeatherApp
+### WeatherApp
 
 ##### *english*
 *Would you like to know how's the weather like in your city? or any city in the world, actually!* Just type in their names in the search bar above, and you'll get a card for each one of them showing the main information. *Would you like to see more details, along with the nwxr week forecast?* Click in any of your city-cards to expand the weather information of that city. — WeatherApp is a React single-page app created by Franco Aparicio, student of <a href='https://www.soyhenry.com'>soyHenry</a>'s bootcamp. The app offers real-time weather information (withdrawn from <a href='https://openweathermap.org/api'>openweathermap's API</a>) of any city in the world.
@@ -106,7 +106,7 @@ WIP (soon)
 
 <hr />
 
-# SOME GITHUB STATS:
+## Some Github stats:
 
 <p>
   <img
