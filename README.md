@@ -110,6 +110,9 @@ WIP (soon)
 repo: [github](https://github.com/ffranco-a/WeatherApp)
 
 
+
+Techs: Javascript | HTML | CSS | React
+
 ##### *english*
 *Would you like to know how's the weather like in your city? or any city in the world, actually!* Just type in their names in the search bar above, and you'll get a card for each one of them showing the main information. *Would you like to see more details, along with the nwxr week forecast?* Click in any of your city-cards to expand the weather information of that city. — WeatherApp is a React single-page app created by Franco Aparicio, student of <a href='https://www.soyhenry.com'>soyHenry</a>'s bootcamp. The app offers real-time weather information (withdrawn from <a href='https://openweathermap.org/api'>openweathermap's API</a>) of any city in the world.
 
