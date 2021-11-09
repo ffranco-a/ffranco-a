@@ -2,19 +2,22 @@
 <h3 align="center">a front-end developer eager to create connections.</h3>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-- 🔭 I’m currently working on **CheckPlease**, a tool to assist you and your friends to split the bills.
+- 🔭 I’m currently working on **_CheckPlease_**, a tool that handles the bills so you and your friends can focus on what's important: have fun.
 
-- 📫 Contact me at **ffrancoaparicio@gmail.com** 
+- 📫 Contact me at **ffrancoaparicio@gmail.com**
 
 - 🤝 Find me in LinkedIn as [Franco Aparicio](https://www.linkedin.com/in/franco-aparicio) <a href='https://www.linkedin.com/in/franco-aparicio'><img
-  align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-  alt="franco aparicio"
-  height="21"
-  width="28"
-/></a> 
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="franco aparicio"
+    height="21"
+    width="28"
+  /></a>
 
+<br />
 <hr />
+<hr />
+<br />
 
 <h3 align="left">Languages and Tools I have experience in (and still are perfecting):</h3>
 <p align="left">
@@ -76,72 +79,109 @@
   </a>
 </p>
 
+<br />
 <hr />
+<hr />
+<br />
 
 # Projects:
 
-### *Adogtame*
-
-> Group **Fullstack** Project *(my role: front-end)*
-
-#### deploy: [Vercel](https://adogtame.vercel.app) <br />
-
-##### *english*
-*Adogtame* is an app that connects **pets in adoption/lost/found** with **people who are looking to adopt, or that has lost their pet.** Also, it allows **animal shelters** to publish their ubication and office hours, list their pets available for adoption, organize events and even share a link for donations and thus receive community aid. The idea is to unify all these needs in one place, since currently this kind of information is spread out across multiple social networks and not regularized, it is in this context that *Adogtame* can be a first-place-to-go to, and because of that easing the process of finding a pet a loving home. Furthermore, posts in *Adogtame* are geolocalized, thus looking for a pet is specially agile, particularly in the case of lost pets whose situation is the gravest and need finding ASAP.
-
-##### *español*
-El objetivo de *Adogtame* es conectar **animales en adopción/perdidos/encontrados** con **personas que buscan adoptar o que extraviaron a su mascota.** Además la aplicación es una herramienta para que **refugios de animales** puedan publicar su ubicación y horarios de visita, listar sus mascotas disponibles, organizar eventos y hasta compartir un enlace en el cual puedan recibir donaciones y apoyo comunitario. La idea surge a partir de la falta de un sitio que nuclee estas necesidades, actualmente la información está esparcida en diferentes redes sociales, entonces una aplicación como *Adogtame* facilita el proceso de darle un hogar a una mascota que lo necesita. Las publicaciones en *Adogtame* funcionan a base de geolocalización, por lo que la búsqueda de mascotas se ve optimizada, especialmente en el caso de mascotas extraviadas.
-
-##
-##
-
-### *getRecipes() >*
-> Solo **Fullstack** Project
-#### repo: [github](https://github.com/ffranco-a/getRecipes)
 
 
-WIP (soon)
+## _Adogtame_
 
-##
-##
+#### Group **Fullstack** Project _(my role: front-end)_
 
-### *WeatherApp*
-> **React SPA** project 
-#### deploy: [Vercel](https://weather-app-ffranco-a.vercel.app) <br />
-repo: [github](https://github.com/ffranco-a/WeatherApp)
+> [DEPLOY: Adogtame.vercel.app](https://adogtame.vercel.app)
 
+> Adogtame landing page ![Adogtame landing page](/images/AdogtameLanding.png)
 
+**Techs:** Javascript | HTML | CSS | TailwindCSS | React | ReactNative | Redux | Node.js | Express | PostgreSQL | Sequelize
 
-Techs: Javascript | HTML | CSS | React
+##### _english_
 
-##### *english*
-*Would you like to know how's the weather like in your city? or any city in the world, actually!* Just type in their names in the search bar above, and you'll get a card for each one of them showing the main information. *Would you like to see more details, along with the nwxr week forecast?* Click in any of your city-cards to expand the weather information of that city. — WeatherApp is a React single-page app created by Franco Aparicio, student of <a href='https://www.soyhenry.com'>soyHenry</a>'s bootcamp. The app offers real-time weather information (withdrawn from <a href='https://openweathermap.org/api'>openweathermap's API</a>) of any city in the world.
+_Adogtame_ is an app that connects **pets in adoption/lost/found** with **people who are looking to adopt, or that has lost their pet.** Also, it allows **animal shelters** to publish their ubication and office hours, list their pets available for adoption, organize events and even share a link for donations and thus receive community aid. The idea is to unify all these needs in one place, since currently this kind of information is spread out across multiple social networks and not regularized, it is in this context that _Adogtame_ can be a first-place-to-go to, and because of that easing the process of finding a pet a loving home. Furthermore, posts in _Adogtame_ are geolocalized, thus looking for a pet is specially agile, particularly in the case of lost pets whose situation is the gravest and need finding ASAP.
 
-##### *español*
-*¿Quieres saber qué temperatura hace en tu ciudad y en cualquier parte del mundo?* Escribe los nombres de las ciudades que quieras en la barra de búsqueda y se generará una tarjeta por cada una de ellas. *¿Quieres ver más detalles, y el pronóstico extendido de la semana?* Clickea en cualquiera de las tarjetas para ampliar la información del clima de esa ciudad. — WeatherApp es una aplicación de página única (React SPA) creada por Franco Aparicio, alumne del bootcamp <a href='https://www.soyhenry.com'>soyHenry</a>. La aplicación brinda información del clima en tiempo real (extraída de <a href='https://openweathermap.org/api'>API de openweathermap</a>) de cualquier ciudad del mundo.
-##
+##### _español_
+
+El objetivo de _Adogtame_ es conectar **animales en adopción/perdidos/encontrados** con **personas que buscan adoptar o que extraviaron a su mascota.** Además la aplicación es una herramienta para que **refugios de animales** puedan publicar su ubicación y horarios de visita, listar sus mascotas disponibles, organizar eventos y hasta compartir un enlace en el cual puedan recibir donaciones y apoyo comunitario. La idea surge a partir de la falta de un sitio que nuclee estas necesidades, actualmente la información está esparcida en diferentes redes sociales, entonces una aplicación como _Adogtame_ facilita el proceso de darle un hogar a una mascota que lo necesita. Las publicaciones en _Adogtame_ funcionan a base de geolocalización, por lo que la búsqueda de mascotas se ve optimizada, especialmente en el caso de mascotas extraviadas.
+
+> Search and filter pets by location ![Search and filter pets by location](/images/AdogtameMapas.jpg)
+
+> Log-in screen ![Log-in screen](/images/AdogtameLogin.jpg)
+
+<br />
 <hr />
+<br />
 
-## Some Github stats:
+## _getRecipes() >_
+
+#### Solo **Fullstack** Project
+
+> [REPO: Github](https://github.com/ffranco-a/getRecipes)
+
+**Techs:** Javascript | HTML | CSS | React | Redux | Node.js | Express | PostgreSQL | Sequelize
+
+> getRecipes() landing page ![getRecipes() landing page](/images/getRecipesLanding.jpg)
+
+> Recipes hub, where you can browse, search by name, filter by diets, and order by health and popularity scores ![Recipes hub, where you can browse, search by name, filter by diets, and order by health and popularity scores](/images/getRecipesMain.jpg)
+
+> Recipe detail, with description, measured ingredients and step by step instructions ![Recipe detail, with description, measured ingredients and step by step instructions](/images/getRecipesDetail.jpg)
+
+<br />
+<hr />
+<br />
+
+## _WeatherApp_
+
+#### **React SPA** project
+
+> [REPO: Github](https://github.com/ffranco-a/WeatherApp) <br /> [DEPLOY: weather-app-ffranco-a.vercel.app](https://weather-app-ffranco-a.vercel.app)
+
+> WeatherApp main cards page ![WeatherApp main cards page](/images/WeatherAppMain.png)
+
+**Techs:** Javascript | HTML | CSS | React
+
+##### _english_
+
+_Would you like to know how's the weather like in your city? or any city in the world, actually!_ Just type in their names in the search bar above, and you'll get a card for each one of them showing the main information. _Would you like to see more details, along with the nwxr week forecast?_ Click in any of your city-cards to expand the weather information of that city. — WeatherApp is a React single-page app created by Franco Aparicio, student of <a href='https://www.soyhenry.com'>soyHenry</a>'s bootcamp. The app offers real-time weather information (withdrawn from <a href='https://openweathermap.org/api'>openweathermap's API</a>) of any city in the world.
+
+##### _español_
+
+_¿Quieres saber qué temperatura hace en tu ciudad y en cualquier parte del mundo?_ Escribe los nombres de las ciudades que quieras en la barra de búsqueda y se generará una tarjeta por cada una de ellas. _¿Quieres ver más detalles, y el pronóstico extendido de la semana?_ Clickea en cualquiera de las tarjetas para ampliar la información del clima de esa ciudad. — WeatherApp es una aplicación de página única (React SPA) creada por Franco Aparicio, alumne del bootcamp <a href='https://www.soyhenry.com'>soyHenry</a>. La aplicación brinda información del clima en tiempo real (extraída de <a href='https://openweathermap.org/api'>API de openweathermap</a>) de cualquier ciudad del mundo.
+
+> *Detailed weather info page, with next week forecast* ![Detailed weather info page, with next week forecast](/images/WeatherAppForecast.png)
+
+<br />
+<hr />
+<hr />
+<br />
+
+## Some of my Github stats:
 
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ffranco-a&show_icons=true&locale=en&layout=compact"
-    alt="ffranco-a"
-  />
-</p>
-
-##
-
-<p>
-  &nbsp;<img
-    align="center"
+    width="500px"
     src="https://github-readme-stats.vercel.app/api?username=ffranco-a&show_icons=true&theme=onedark&locale=en"
     alt="ffranco-a"
   />
 </p>
 
-##
+<p>
+  <img
+    align="center" 
+    width="500px" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ffranco-a&theme=onedark" 
+    alt="ffranco-a"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffranco-a&" alt="ffranco-a" /></p>
+<p>
+  <img
+    align="center"
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ffranco-a&show_icons=true&theme=onedark&locale=en&layout=compact"
+    alt="ffranco-a"
+  />
+</p>
