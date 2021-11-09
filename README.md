@@ -2,7 +2,7 @@
 <h3 align="center">a front-end developer eager to create connections.</h3>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-- 🔭 I’m currently working on [Adogtame](https://adogtame.vercel.app) 
+- 🔭 I’m currently working on **CheckPlease**, a tool to assist you and your friends to split the bills.
 
 - 📫 Contact me at **ffrancoaparicio@gmail.com** 
 
@@ -81,9 +81,10 @@
 # Projects:
 
 ### *Adogtame*
-> Group **Fullstack** Project *(my role: front-end)*
-#### deploy: [Vercel](https://adogtame.vercel.app) <br />
 
+> Group **Fullstack** Project *(my role: front-end)*
+
+#### deploy: [Vercel](https://adogtame.vercel.app) <br />
 
 ##### *english*
 *Adogtame* is an app that connects **pets in adoption/lost/found** with **people who are looking to adopt, or that has lost their pet.** Also, it allows **animal shelters** to publish their ubication and office hours, list their pets available for adoption, organize events and even share a link for donations and thus receive community aid. The idea is to unify all these needs in one place, since currently this kind of information is spread out across multiple social networks and not regularized, it is in this context that *Adogtame* can be a first-place-to-go to, and because of that easing the process of finding a pet a loving home. Furthermore, posts in *Adogtame* are geolocalized, thus looking for a pet is specially agile, particularly in the case of lost pets whose situation is the gravest and need finding ASAP.
