@@ -2,7 +2,9 @@
 <h3 align="center">a front-end developer eager to create connections.</h3>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-- 🔭 I’m currently working on **_CheckPlease_**, a tool that handles the bills so you and your friends can focus on what's important: have fun.
+- ⚛️ As of late november I joined [LILAB](https://www.lilab.pe/)'s team as a Frontend Developer specialized in React, and although it's a Full Time position, we don't use github there so my GH stats will probably be are rather low.
+
+- 🔭 As a side project, I’m working on **_CheckPlease_**, a tool that handles the bills so you and your friends can focus on what's important: have fun.
 
 - 📫 Contact me at **ffrancoaparicio@gmail.com**
 
@@ -92,7 +94,7 @@
 
 #### Group **Fullstack** Project _(my role: front-end)_
 
-> [DEPLOY: Adogtame.vercel.app](https://adogtame.vercel.app)
+> [DEPLOY: Adogtame.vercel.app](https://adogtame.vercel.app) <br /> [REPO: Github](https://github.com/ffranco-a/Adogtame)
 
 > Adogtame landing page ![Adogtame landing page](/images/AdogtameLanding.png)
 
