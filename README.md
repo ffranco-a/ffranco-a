@@ -4,7 +4,7 @@
 
 - ⚛️ As of late november I joined [LILAB](https://www.lilab.pe/)'s team as a Frontend Developer specialized in React, and although it's a Full Time position, we don't use github there so my GH stats will probably be rather low.
 
-- 🔭 As a side project, I’m working on **_CheckPlease_**, a tool that handles the bill spliting so you and your friends can focus on what's important: have fun. It's still in beta mode and it's super simple anyway but if you want you can check it out [here](https://check-please.vercel.app/).
+- 🔭 As a personal project, I’m working on **_CheckPlease_**, a tool that handles the bill spliting so you and your friends can focus on what's important: have fun. It's still in beta mode and it's super simple anyway but if you want you can check it out [here](https://check-please.vercel.app/).
 
 - 📫 Contact me at **ffrancoaparicio@gmail.com**
 
@@ -86,9 +86,23 @@
 <hr />
 <br />
 
-# Projects:
+# Personal Projects:
 
+## _Check-Please_
 
+#### Solo **Front-end** project
+
+> [DEPLOY (beta): check-please.vercel.app](https://check-please.vercel.app/)
+
+**Techs:** Javascript | HTML | CSS | TailwindCSS | React | Figma
+
+> Add expenses and set who you shared them with ![app preview](/images/CheckpleaseDeploy(2).jpg)
+
+> Figma mockup ![Figma mockup](/images/CheckpleaseFigma.jpeg)
+
+<br />
+<hr />
+<br />
 
 ## _Adogtame_
 
