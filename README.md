@@ -4,7 +4,7 @@
 
 - ⚛️ As of late november I joined [LILAB](https://www.lilab.pe/)'s team as a Frontend Developer specialized in React, and although it's a Full Time position, we don't use github there so my GH stats will probably be rather low.
 
-- 🔭 As a side project, I’m working on **_CheckPlease_**, a tool that handles the bills so you and your friends can focus on what's important: have fun. It's still in beta mode but if you want to check it out [here](https://check-please.vercel.app/).
+- 🔭 As a side project, I’m working on **_CheckPlease_**, a tool that handles the bill spliting so you and your friends can focus on what's important: have fun. It's still in beta mode and it's super simple anyway but if you want you can check it out [here](https://check-please.vercel.app/).
 
 - 📫 Contact me at **ffrancoaparicio@gmail.com**
 
